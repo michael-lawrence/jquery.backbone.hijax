@@ -1,0 +1,28 @@
+{
+	"name": "jquery.backbone.hijax",
+	"version": "1.0.0",
+	"description": "Simple jQuery plugin for replacing html entities and returning the result.",
+	"homepage": "https://github.com/michael-lawrence/jquery.backbone.hijax",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"jquery",
+		"backbone",
+		"hijax"
+	],
+	"main": "./jquery.backbone.hijax",
+	"dependencies": {
+		"jquery" : "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/michael-lawrence/jquery.backbone.hijax.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/jquery.backbone.hijax/issues"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
